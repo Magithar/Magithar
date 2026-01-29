@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Magithar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Magithar&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Magithar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&cache_seconds=1800)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Magithar&theme=dark&hide_border=false&layout=compact)
 
 ### 🏆 Top Contributed Repo
 [![socketio-unity](https://github-readme-stats.vercel.app/api/pin/?username=Magithar&repo=socketio-unity&theme=dark)](https://github.com/Magithar/socketio-unity)
