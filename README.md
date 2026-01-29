@@ -22,7 +22,7 @@
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Magithar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Magithar&theme=dark&hide_border=false&cache_seconds=1800)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![](https://my-stats-widget.vercel.app/api/top-langs/?username=Magithar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 Top Contributed Repo
 **[socketio-unity](https://github.com/Magithar/socketio-unity)** — Socket.IO v4 client for Unity (C#, WebSockets, Real-time Multiplayer)
