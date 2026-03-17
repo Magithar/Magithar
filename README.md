@@ -5,7 +5,7 @@
 
 🤝 I'm looking to collaborate
 
-## 🌐 Portfolio:
+## 🔗 Portfolio:
 [![magithar.com](https://img.shields.io/badge/magithar.com-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://magithar.com/)
 
 ## 🌐 Socials:
