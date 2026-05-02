@@ -1,5 +1,5 @@
 # 👋 About Me:
-🎮 Unity Developer | VR/MR | Real-time Multiplayer Systems
+Product Manager | VR/MR | Real-time Multiplayer Systems
 
 ⚡ Creator of Socket.IO v4 for Unity — open-source networking client
 
